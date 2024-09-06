@@ -1,0 +1,6 @@
+@DelivrooAPI_HostAddress = http://localhost:5062
+
+GET {{DelivrooAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
